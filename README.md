@@ -1,4 +1,4 @@
-Status Message
+Sicbo and Roulette Contract
 ==============
 
 ## Prerequisites
